@@ -1,3 +1,4 @@
+
 local sx,sy = guiGetScreenSize()
 local px,py = 1600,900
 local x,y = (sx/px), (sy/py)
