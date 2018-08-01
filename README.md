@@ -15,8 +15,8 @@ I (Jannik) am the only developer at the moment. I am open for other people help 
 ## Version 0.0.1
 - Core system(Databse structure, register login backend)
 ## Version 0.0.11
--Login/Register Interface
--Self Menu(Close)
+- Login/Register Interface
+- Self Menu(Close)
 
-#Todo
--See Asana
+# Todo
+- See Asana
