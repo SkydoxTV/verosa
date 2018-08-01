@@ -5,7 +5,7 @@ Hier entsteht der Open Source iV Reallife Gamemode.
 Momentan bin ich(Jannik) der Entwickler.
 Gerne suche ich mitnetwickler welche uns dabei helfen, der Gamemode soll ein Gemeinschaftsprojekt werden!
 
-# Englisch Version
+# English Version
 ## iV Reallife Open Source
 The open source gamemode iV Reallife is created here.
 ## The team
